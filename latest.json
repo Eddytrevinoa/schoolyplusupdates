@@ -6,28 +6,27 @@
       "forceUpdate": false,
       "name": "September polish",
       "icon": "sparkles",
-      "description": "A fresh flat design and new customization options.",
-      "image": "https://your.cdn/img/1_3_0.png",
+      "description": "A fresh flat design and new customization options. Faster Canvas refresh and a pack of reusable components.",
+      "image": "https://raw.githubusercontent.com/Eddytrevinoa/schoolyplusupdates/refs/heads/main/assets/1_3_0.png",
       "date": "2025-09-18",
       "links": [
-        {"title": "Full changelog", "url": "https://github.com/.../releases/1.3.0"}
+        { "title": "Full changelog", "url": "https://github.com/Eddytrevinoa/schoolyplusupdates/releases/tag/1.3.0" }
       ],
-      "highlights": [                       // ⭐ 3–4 starred items with icons
-        {"title": "Flat Profile redesign", "icon": "person.crop.circle.fill"},
-        {"title": "Accent/grid micro-interactions", "icon": "paintbrush.fill"},
-        {"title": "New Shared Components pack", "icon": "square.grid.2x2.fill"},
-        {"title": "Faster Canvas refresh", "icon": "bolt.fill"}
+      "highlights": [
+        { "title": "Flat Profile redesign", "icon": "person.crop.circle.fill" },
+        { "title": "Accent/grid micro-interactions", "icon": "paintbrush.fill" },
+        { "title": "New Shared Components pack", "icon": "square.grid.2x2.fill" },
+        { "title": "Faster Canvas refresh", "icon": "bolt.fill" }
       ],
-      "changes": [                          // • rest as normal text
+      "changes": [
         "Customization screen moved to native List",
         "Accent swatches resized and spacing tightened",
-        "New FilledButton roles and visual press feedback",
+        "FilledButton roles incl. Refresh + press feedback",
         "Circle and linear progress components",
         "Toast, Error banner/card, Inline error",
         "CounterStepper and Tag chips"
       ]
     },
-
     "1.2.0": {
       "forceUpdate": false,
       "name": "Mid-summer update",
@@ -37,11 +36,11 @@
       "date": "2025-07-30",
       "links": [],
       "highlights": [
-        {"title": "Theme polish", "icon": "sun.max.fill"},
-        {"title": "Accent presets", "icon": "drop.fill"}
+        { "title": "Theme polish", "icon": "sun.max.fill" },
+        { "title": "Accent presets", "icon": "drop.fill" }
       ],
       "changes": [
-        "Improved dynamic type in settings",
+        "Improved Dynamic Type in settings",
         "Fixed layout glitches on iPad"
       ]
     }
