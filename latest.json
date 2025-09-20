@@ -7,7 +7,7 @@
       "name": "September polish",
       "icon": "sparkles",
       "description": "A fresh flat design and new customization options.",
-      "image": "https://raw.githubusercontent.com/Eddytrevinoa/schoolyplusupdates/refs/heads/main/assets/1_3_0.png",
+      "image": null,
       "date": "2025-09-18",
       "links": [
         { "title": "Full changelog", "url": "https://github.com/Eddytrevinoa/schoolyplusupdates/releases/tag/1.3.0" }
