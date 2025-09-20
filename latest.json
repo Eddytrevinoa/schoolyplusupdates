@@ -1,1 +1,49 @@
+{
+  "latest": "1.3.0",
+  "appStoreURL": "https://apps.apple.com/app/id1234567890",
+  "releases": {
+    "1.3.0": {
+      "forceUpdate": false,
+      "name": "September polish",
+      "icon": "sparkles",
+      "description": "A fresh flat design and new customization options.",
+      "image": "https://your.cdn/img/1_3_0.png",
+      "date": "2025-09-18",
+      "links": [
+        {"title": "Full changelog", "url": "https://github.com/.../releases/1.3.0"}
+      ],
+      "highlights": [                       // ⭐ 3–4 starred items with icons
+        {"title": "Flat Profile redesign", "icon": "person.crop.circle.fill"},
+        {"title": "Accent/grid micro-interactions", "icon": "paintbrush.fill"},
+        {"title": "New Shared Components pack", "icon": "square.grid.2x2.fill"},
+        {"title": "Faster Canvas refresh", "icon": "bolt.fill"}
+      ],
+      "changes": [                          // • rest as normal text
+        "Customization screen moved to native List",
+        "Accent swatches resized and spacing tightened",
+        "New FilledButton roles and visual press feedback",
+        "Circle and linear progress components",
+        "Toast, Error banner/card, Inline error",
+        "CounterStepper and Tag chips"
+      ]
+    },
 
+    "1.2.0": {
+      "forceUpdate": false,
+      "name": "Mid-summer update",
+      "icon": "paintbrush.fill",
+      "description": "Accent & theme improvements and stability fixes.",
+      "image": null,
+      "date": "2025-07-30",
+      "links": [],
+      "highlights": [
+        {"title": "Theme polish", "icon": "sun.max.fill"},
+        {"title": "Accent presets", "icon": "drop.fill"}
+      ],
+      "changes": [
+        "Improved dynamic type in settings",
+        "Fixed layout glitches on iPad"
+      ]
+    }
+  }
+}
