@@ -6,7 +6,7 @@
       "forceUpdate": false,
       "name": "September polish",
       "icon": "sparkles",
-      "description": "A fresh flat design and new customization options. Faster Canvas refresh and a pack of reusable components.",
+      "description": "A fresh flat design and new customization options.",
       "image": "https://raw.githubusercontent.com/Eddytrevinoa/schoolyplusupdates/refs/heads/main/assets/1_3_0.png",
       "date": "2025-09-18",
       "links": [
@@ -21,7 +21,7 @@
       "changes": [
         "Customization screen moved to native List",
         "Accent swatches resized and spacing tightened",
-        "FilledButton roles incl. Refresh + press feedback",
+        "New FilledButton roles and visual press feedback",
         "Circle and linear progress components",
         "Toast, Error banner/card, Inline error",
         "CounterStepper and Tag chips"
@@ -40,7 +40,7 @@
         { "title": "Accent presets", "icon": "drop.fill" }
       ],
       "changes": [
-        "Improved Dynamic Type in settings",
+        "Improved dynamic type in settings",
         "Fixed layout glitches on iPad"
       ]
     }
